@@ -1,0 +1,9 @@
+.sidebar_left{
+    flex: 0 0 415px;
+    position: sticky;
+    top: 0;
+
+    background-color: #fff;
+
+    height: 471px;
+}
