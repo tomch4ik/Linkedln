@@ -1,0 +1,58 @@
+.sidebar_left{
+
+    padding: 48px 48px 12px 48px;
+}
+
+.homesd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 36px;
+    border-bottom: 1.5px solid #6C5CE7;
+}
+
+.homesd img{
+    display: block;
+    width: 128px;
+    height: 128px;
+    margin-bottom: 16px;
+}
+
+.homesd_name{
+    color: #6C5CE7;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.homesd_prof{
+    font-style: regular;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.sidebar_contacts{
+    margin: 36px 0 19px;
+}
+
+.contacts_title{
+    display: block;
+    font-size: 16px;
+    color:#6C5CE7;
+}
+
+.sidebar_saved{
+    margin: 23px 0;
+}
+
+.sidebar_href{
+    text-decoration: none;
+    color:#6C5CE7;
+}
+
+.sidebar_href img{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    vertical-align: bottom;
+}
