@@ -1,0 +1,32 @@
+
+.main_page{
+  flex: 1;
+}
+
+.container--wide{
+  display: flex;
+  max-width: 1782px;
+  margin-top: 34px;
+  margin-bottom: 20px;
+  align-items: flex-start; /* чтобы элементы не занимали всю высоту экрана 10.07 */
+}
+
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+  background-color: #F8F9FA;
+}
+
+
+aside{
+  flex: 0 0 415px;
+  
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 8px;
+}
