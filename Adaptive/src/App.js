@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import {Home} from './Pages/Home';
 import {Network} from './Pages/Network';
 import {Vacancies} from './Pages/Vacancies';
-import {Messages} from './Pages/Messages';
+import Messages from './Pages/Messages';
 import {Notification} from './Pages/Notification';
 import {MyProfilePortfolio} from './Pages/MyProfilePortfolio'
 
